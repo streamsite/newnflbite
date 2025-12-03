@@ -1,0 +1,10 @@
+User-agent: *
+Allow: /
+
+
+Sitemap: https://nflbite.wiki/sitemap.xml
+
+
+
+
+
